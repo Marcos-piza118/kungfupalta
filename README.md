@@ -38,3 +38,5 @@ Cambiar contraseña	✅	✅
 Python 3.10+
 
 No se requieren dependencias externas.
+📄 Licencia
+Este proyecto está bajo licencia MIT - ver el archivo LICENSE para más detalles.
